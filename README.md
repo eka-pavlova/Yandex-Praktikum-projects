@@ -1,6 +1,6 @@
 # Yandex-Praktikum-projects
 Проекты, которые были выполнены, в рамках обучения в Яндекс.Практикуме по курсу «Аналитик данных». 
-<table border="1" width="100%" cellpadding="5" font-size="11pt" font-family="Arial">
+<table border="1" width="100%" cellpadding="5" font-size="9pt" font-family="Arial">
     <tr align="center">
         <th>Название проекта</th>
         <th>Описание</th>
